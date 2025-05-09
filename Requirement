@@ -1,0 +1,84 @@
+The project you've built is a static HTML + JavaScript website. It does not require any backend or complex dependencies, but here's a concise list of requirements for development and deployment:
+
+
+---
+
+System Requirements
+
+1. Development Requirements (Local)
+
+Text Editor:
+
+VS Code (recommended)
+
+Sublime Text, Atom, or even Notepad++
+
+
+Browser:
+
+Any modern browser (Chrome, Firefox, Edge, Safari)
+
+
+Optional Tools:
+
+Git (for version control and GitHub deployment)
+
+Node.js (only needed if you plan to scale or add bundlers like Webpack later)
+
+
+
+
+---
+
+2. Deployment Requirements
+
+For GitHub Pages
+
+GitHub account
+
+Git installed locally
+
+Public repository for pushing files
+
+
+For Netlify (No setup needed)
+
+Netlify account (free)
+
+Just drag & drop the folder
+
+
+
+---
+
+Project File Structure
+
+tourism-analytics-demo/
+│
+├── index.html        # Main web page
+├── app.js            # JavaScript functionality
+└── README.md         # Project description (optional for GitHub)
+
+
+---
+
+Browser Compatibility
+
+Fully works on:
+
+Google Chrome
+
+Firefox
+
+Safari
+
+Microsoft Edge
+
+
+No server, backend, or frameworks required
+
+
+
+---
+
+Let me know if you'd like a package.json created in case you want to migrate this into a Node.js/React/Vue project later.
