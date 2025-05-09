@@ -1,0 +1,147 @@
+<!DOCTYPE html>va
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Phase-3 Project Report</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+    h1, h2, h3 { color: #2c3e50; }
+    ul { margin-top: 0; }
+    pre { background: #f4f4f4; padding: 10px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+
+  <h1>Phase-3 Submission Template – Data Analytics</h1>
+
+  <p><strong>Student Name:</strong> SATHYA .S</p>
+  <p><strong>Register Number:</strong> 422523205023</p>
+  <p><strong>Institution:</strong> UNIVERSITY COLLEGE OF ENGINEERING VILLUPURAM</p>
+  <p><strong>Department:</strong> INFORMATION TECHNOLOGY</p>
+  <p><strong>Date of Submission:</strong> 09-05-2025</p>
+  <p><strong>GitHub Repository Link:</strong> <a href="https://github.com/sathyasakthi25/data-analystics.git">GitHub</a></p>
+
+  <h2>Problem Statement</h2>
+  <p>The tourism industry is highly dynamic... (summary of initial paragraphs)</p>
+
+  <h2>Abstract</h2>
+  <p>The project titled "Identifying Patterns in Tourism Data..."</p>
+
+  <h2>System Requirements</h2>
+  <h3>Hardware</h3>
+  <ul>
+    <li>Processor: Intel i5 or above</li>
+    <li>RAM: Minimum 8 GB</li>
+    <li>Storage: At least 10 GB free</li>
+    <li>GPU: Optional</li>
+  </ul>
+  <h3>Software</h3>
+  <ul>
+    <li>OS: Windows 10/11</li>
+    <li>Python 3.8+</li>
+    <li>Google Colab or Jupyter Notebook</li>
+    <li>Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, streamlit, flask, gradio, fastapi</li>
+  </ul>
+
+  <pre>pip install pandas numpy matplotlib seaborn scikit-learn streamlit flask gradio fastapi</pre>
+
+  <h2>Project Objectives</h2>
+  <ul>
+    <li>Analyze Tourism Trends</li>
+    <li>Predict Visitor Numbers</li>
+    <li>Understand Customer Preferences</li>
+    <li>Support Business Decisions</li>
+    <li>Enhance Resource Planning</li>
+    <li>Promote Sustainable Tourism</li>
+    <li>Improve Tourist Experience</li>
+    <li>Enable Smart Deployment</li>
+  </ul>
+
+  <h2>Project Workflow</h2>
+  <p>Data Acquisition → Data Cleaning & Preparation → Exploratory Data Analysis → Feature Engineering → Predictive Modeling → Model Assessment → Insights Visualization → Deployment</p>
+
+  <h2>Dataset Description</h2>
+  <p><strong>Source:</strong> Kaggle</p>
+  <p><strong>Time Span:</strong> 2014 to 2020</p>
+  <p><strong>Key Features:</strong></p>
+  <ul>
+    <li>Year, Country, Tourist Arrivals, Departures, Region/Continent</li>
+  </ul>
+
+  <h2>Data Preprocessing</h2>
+  <ul>
+    <li>Handling Missing Values</li>
+    <li>Removing Duplicates</li>
+    <li>Standardizing Names</li>
+    <li>Formatting Data Types</li>
+    <li>Outlier Detection</li>
+    <li>Feature Creation</li>
+    <li>Final Checks</li>
+  </ul>
+
+  <h2>Exploratory Data Analysis (EDA)</h2>
+  <ul>
+    <li>Descriptive Statistics</li>
+    <li>Data Distribution</li>
+    <li>Time Series Trends</li>
+    <li>Regional Comparison</li>
+    <li>Seasonal Patterns</li>
+    <li>Impact of COVID-19</li>
+    <li>Correlation Analysis</li>
+    <li>Visualization Tools</li>
+  </ul>
+
+  <h2>Insights and Interpretation</h2>
+  <ul>
+    <li>Convert EDA findings into business insights</li>
+    <li>Use bullet points for clarity</li>
+  </ul>
+
+  <h2>Recommendations</h2>
+  <ul>
+    <li>Short-Term Actions</li>
+    <li>Long-Term Strategic Moves</li>
+  </ul>
+
+  <h2>Visualizations / Dashboard</h2>
+  <ul>
+    <li>Charts and screenshots from Matplotlib/Seaborn/Plotly</li>
+    <li>Optional Tableau / Power BI</li>
+  </ul>
+
+  <h2>Final Deliverables</h2>
+  <ul>
+    <li>Notebook (.ipynb)</li>
+    <li>Dashboard file/link</li>
+    <li>Final Report</li>
+    <li>Insight Summary (optional)</li>
+  </ul>
+
+  <h2>Source Code</h2>
+  <p>Upload to GitHub, with full folder structure:</p>
+  <pre>
+├── data/
+├── notebooks/
+├── dashboard/
+├── report/
+└── README.md
+  </pre>
+
+  <h2>Future Scope</h2>
+  <ul>
+    <li>Real-time data pipeline integration</li>
+    <li>Advanced visualization tools</li>
+    <li>NLP on reviews</li>
+    <li>Marketing automation integration</li>
+  </ul>
+
+  <h2>Team Members and Roles</h2>
+  <table border="1" cellpadding="5">
+    <tr><th>Name</th><th>Responsibility</th></tr>
+    <tr><td>[Student 1 Name]</td><td>Task 1</td></tr>
+    <tr><td>[Student 2 Name]</td><td>Task 2</td></tr>
+    <tr><td>[Student 3 Name]</td><td>Task 3</td></tr>
+  </table>
+
+</body>
+</html>
